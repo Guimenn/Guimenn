@@ -12,7 +12,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://steamcommunity.com/id/Guimenn/"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/guimen/"><img width="5%" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/instagram.svg"/></a>
+    <a href="https://www.instagram.com/guimen/"><img width="5%" alt="Instagram" title="Instagram" src="https://i.imgur.com/IywaVv1.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -22,7 +22,7 @@
 > Guimenn
 ```
 
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="185"/> 
+<a href="#"><img align="left" src="https://i.imgur.com/JAzaR4C.png" width="185"/> 
 
 
 ```lua
