@@ -22,7 +22,7 @@
 > Guimenn
 ```
 
-<a href="#"><img align="left" src="https://i.imgur.com/JAzaR4C.png" width="185"/> 
+<a href="#"><img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="185"/> 
 
 
 ```lua
