@@ -12,7 +12,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://steamcommunity.com/id/Guimenn/"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/guimen/"><img width="7%" alt="Instagram" title="Instagram" src="https://imgur.com/IywaVv1"/></a>
+    <a href="https://www.instagram.com/guimen/"><img width="7%" alt="Instagram" title="Instagram" src="https://imgur.com/a/eBBNC2s"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
