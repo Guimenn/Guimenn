@@ -4,7 +4,7 @@
 <br>
 <a href="https://github.com/Guimenn">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=30&duration=3500&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+tudo+bem%2C+me+chamo+Guimen+!" alt="Typing SVG" /></a>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3500&pause=2000&color=F7F7F7&center=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+me+chamo+Guimen!;Seja+bem-vindo(a)+ao+meu+perfil!"/></a>
 </a>
 <br>
 <p align="center">
