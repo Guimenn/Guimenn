@@ -30,10 +30,9 @@ Guimenn@GitHub
 ▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
-Pronouns: 
 Location: Brasil, SP
-Learning: Html, CSS
-Languages: Nenhuma
+Learning: Html, CSS, Bootstrap, TailwindCSS, JavaScript, NextJS, React, PHP, MySQL 
+Languages: Português (Nativo), Inglês (Básico)
 Hobbies: Games, Sleep, Programming
 ```
 
