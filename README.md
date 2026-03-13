@@ -31,7 +31,7 @@ Guimenn@GitHub
 OS: Windows 10 x64
 Shell: Windows Terminal
 Location: Brasil, SP
-Learning: Html, CSS, Bootstrap, TailwindCSS, JavaScript, NextJS, React, PHP, MySQL 
+Learning: Bootstrap, TailwindCSS, JavaScript, NextJS, React, PHP, MySQL, PostgreSQL, n8n, Docker
 Languages: Português (Nativo), Inglês (Básico)
 Hobbies: Games, Sleep, Programming
 ```
