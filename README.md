@@ -31,7 +31,7 @@ Guimenn@GitHub
 OS: Fedora 44
 Shell: Ptyxis
 Location: Brasil, SP
-Learning: Python, JavaScript, NextJS, PHP,PostgreSQL, n8n, Docker
+Learning: Python, JavaScript, NextJS, PHP, PostgreSQL, Docker, n8n
 Languages: Português (Nativo), Inglês (Básico)
 Hobbies: Games, Sleep, Programming
 ```
