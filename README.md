@@ -28,10 +28,10 @@
 ```lua
 Guimenn@GitHub
 ▔▔▔▔▔▔▔▔
-OS: Windows 10 x64
-Shell: Windows Terminal
+OS: Fedora 44
+Shell: Ptyxis
 Location: Brasil, SP
-Learning: Bootstrap, TailwindCSS, JavaScript, NextJS, React, PHP, MySQL, PostgreSQL, n8n, Docker
+Learning: Python, JavaScript, NextJS, PHP,PostgreSQL, n8n, Docker
 Languages: Português (Nativo), Inglês (Básico)
 Hobbies: Games, Sleep, Programming
 ```
